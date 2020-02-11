@@ -1,3 +1,2 @@
 # giao
 baba
-theshy
